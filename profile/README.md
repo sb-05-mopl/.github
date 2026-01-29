@@ -47,12 +47,12 @@
 
 ## 팀 소개
 
-| 이름 | 역할 | 담당 |
-|------|------|------|
-| 정기주 | 팀장 | User, Spring Batch, Spring Security, OAuth, 클라우드 |
-| 김재민 | 팀원 | 알림, SSE, JMeter 부하테스트 |
-| 정영진 | 팀원 | DM, 리뷰, 팔로우, WebSocket, Monitoring, JMeter 부하테스트 |
-| 민재영 | 팀원 | 클라우드, 콘텐츠, 플레이리스트, Elasticsearch |
+| 이름 | 역할 | 도메인 | 기술 |
+|------|------|--------|------|
+| 정기주 | 팀장 | User | Spring Batch, Spring Security, OAuth, 클라우드 |
+| 김재민 | 팀원 | 알림 | SSE, JMeter 부하테스트 |
+| 정영진 | 팀원 | DM, 리뷰, 팔로우 | WebSocket, Monitoring, JMeter 부하테스트 |
+| 민재영 | 팀원 | 콘텐츠, 플레이리스트 | 클라우드, Elasticsearch |
 
 ## 배포
 https://mopl.cloud
