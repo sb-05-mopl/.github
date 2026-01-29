@@ -1,7 +1,9 @@
 
  # MOPL - 콘텐츠 디스커버리 & 소셜 플랫폼                                                                                                                                                     
                                                                                                                                                                                               
- MOPL 프로젝트의 백엔드 시스템을 구성하는 레포지토리 모음입니다.                                                                                                                              
+ MOPL 프로젝트의 백엔드 시스템을 구성하는 레포지토리 모음입니다.
+
+[📄 프레젠테이션 PDF](https://github.com/sb-05-mopl/.github/blob/main/profile/present.pdf)                                                                                                                              
 <img width="1297" height="728" alt="image" src="https://github.com/user-attachments/assets/e5b7df26-a1c2-4e6c-8d3b-622a19f6e75a" />
 
 ## 프로젝트 일정
