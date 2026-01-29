@@ -45,5 +45,14 @@
 ## 시스템 아키텍처
 <img width="1284" height="592" alt="image" src="https://github.com/user-attachments/assets/317ffaa8-4086-4907-a0e5-d05a92016f17" />
 
-## 배포 
+## 팀 소개
+
+| 이름 | 역할 | 담당 |
+|------|------|------|
+| 정기주 | 팀장 | Spring Batch, Spring Security, OAuth, 클라우드 |
+| 김재민 | 팀원 | 알림, SSE, JMeter 부하테스트 |
+| 정영진 | 팀원 | 플레이리스트, Monitoring, JMeter 부하테스트 |
+| 민재영 | 팀원 | 클라우드, 콘텐츠, Elasticsearch |
+
+## 배포
 https://mopl.cloud
