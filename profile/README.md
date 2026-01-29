@@ -55,4 +55,4 @@
 | 민재영 | 팀원 | 콘텐츠, 플레이리스트 | 클라우드, Elasticsearch |
 
 ## 배포
-https://mopl.cloud
+https://mopl.cloud 월 12만원을 감당할 수 없어 닫아두었습니다(2026/2/1)
