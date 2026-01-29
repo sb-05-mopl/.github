@@ -8,7 +8,16 @@
 
 ## 프로젝트 일정
 <img width="980" height="543" alt="image" src="https://github.com/user-attachments/assets/aaa8fa99-8fcb-43c5-b8a0-6294c186d500" />
-                                                                                                                                                                                              
+
+## 팀 소개
+
+| 이름 | 역할 | 도메인 | 기술 |
+|------|------|--------|------|
+| 정기주 | 팀장 | User | Spring Batch, Spring Security, OAuth, 클라우드 |
+| 김재민 | 팀원 | 알림 | SSE, Kafka 설정 |
+| 정영진 | 팀원 | DM, 리뷰, 팔로우 | WebSocket, Monitoring, JMeter 부하테스트 |
+| 민재영 | 팀원 | 콘텐츠, 플레이리스트 | 클라우드, Elasticsearch |
+
                                                                                                                                                                                               
  ## 레포지토리 개요                                                                                                                                                                           
                                                                                                                                                                                               
@@ -45,14 +54,6 @@
 ## 시스템 아키텍처
 <img width="1284" height="592" alt="image" src="https://github.com/user-attachments/assets/317ffaa8-4086-4907-a0e5-d05a92016f17" />
 
-## 팀 소개
-
-| 이름 | 역할 | 도메인 | 기술 |
-|------|------|--------|------|
-| 정기주 | 팀장 | User | Spring Batch, Spring Security, OAuth, 클라우드 |
-| 김재민 | 팀원 | 알림 | SSE, Kafka 설정 |
-| 정영진 | 팀원 | DM, 리뷰, 팔로우 | WebSocket, Monitoring, JMeter 부하테스트 |
-| 민재영 | 팀원 | 콘텐츠, 플레이리스트 | 클라우드, Elasticsearch |
 
 ## 배포
 https://mopl.cloud 월 12만원을 감당할 수 없어 닫아두었습니다(2026/2/1)
